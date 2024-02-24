@@ -28,3 +28,5 @@ def main():
             print("The result is", num1 * num2)
         elif operation == 4:
             print("The result is", num1 / num2)
+
+main()
